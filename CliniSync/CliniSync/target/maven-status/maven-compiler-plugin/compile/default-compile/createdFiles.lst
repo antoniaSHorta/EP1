@@ -1,0 +1,5 @@
+com\mycompany\clinisync\CliniSync.class
+com\mycompany\clinisync\Doctor.class
+com\mycompany\clinisync\Historial.class
+com\mycompany\clinisync\Paciente.class
+com\mycompany\clinisync\Planificador.class

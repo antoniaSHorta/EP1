@@ -1,0 +1,4 @@
+nombre;apellido;rut;especialidad;formacion;direccion;correo;telefono;consulta
+Carlos;Garcia;19.870.203-k;Traumatologo;Universidad Andres Bello;Sausalito;garciaDoc@gmail.com;33052014;Hospital Dr.Gustavo Fricke, Hospital Carlos Van Buren
+Pedrito;Gonzalez;13.507.711-1;Dentista;INACAP;Valparaiso;pedriGon@gmail.com;33217995631;Clinica BUPA
+Fernanda;Morales;45.678.901-2;Pediatria;Doctora en Medicina, Universidad de Valparaiso; La Serena; fernanda.morales@gmail.com;33256781234;Hospital Carlos Van Buren
