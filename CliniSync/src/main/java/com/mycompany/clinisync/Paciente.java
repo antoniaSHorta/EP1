@@ -18,8 +18,8 @@ public class Paciente {
     private String Nombre;
     private String Apellido;
     private Date fecha_Nacimiento;
-    private Float altura;
-    private Float peso;
+    private float altura;
+    private float peso;
     private String grupo_Sanguineo;
     private String alergias; // SE SEPARAN POR COMA
     private char genero; // M, F, N, O
@@ -147,6 +147,24 @@ public class Paciente {
 
     public void setObservaciones(String observaciones) {
         this.observaciones = observaciones;
+    }
+    
+    // METODO PARA MOSTRAR PANTALLA
+    public void mostrarDatosPaciente ()
+    {
+        System.out.println("RUT: "+this.rut);
+        System.out.println("NOMBRE: "+this.Nombre);
+        System.out.println("APELLIDO: "+this.Apellido);
+        System.out.println("FECHA DE NACIMIENTO: "+this.fecha_Nacimiento.toString());
+        System.out.println("ALTURA: "+this.altura);
+        System.out.println("PESO: "+this.peso);
+        System.out.println("GRUPO SANGUINEO: "+this.grupo_Sanguineo);
+        System.out.println("ALERGIAS: "+this.alergias);
+        System.out.println("GENERO: "+this.genero);
+        System.out.println("TELEFONO: "+this.telefono);
+        System.out.println("CORREO: "+this.correo);
+        System.out.println("PRE-EXISTENCIAS: "+this.pre_Existencias);
+        System.out.println("OBSERVACIONES: "+this.observaciones);
     }
 }
 
