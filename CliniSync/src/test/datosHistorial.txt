@@ -1,0 +1,3 @@
+rutFicha;diaConsulta;recetasEntregadas;examenes;observaciones
+2123121-4;23/08/2023;Ninguna;Examen de Orina;Ninguna
+1244214-5;24/09/2023;Ibuprofeno;Examen de Sangre;Paciente presenta signos de retraso.
