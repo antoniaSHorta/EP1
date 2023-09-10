@@ -1,2 +1,0 @@
-2123121-4;Juan;Gabriel;13/10/2000;1.70;70;A-;Gatos;N;12345678;juanG@gmail.com;Ninguna;Ninguna
-2123121-4;Juan;Gabriel;13/10/2000;1.70;70;A-;Gatos;N;12345678;juanG@gmail.com;Ninguna;Ninguna
